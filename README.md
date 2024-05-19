@@ -14,7 +14,9 @@
 <br />
 
 Hi,I'm Tshepo Mamabolo Mahudu🙌, a Java developer, Vuejs developer as well as an aspiring GIS analyst and spatial developer. Apart from that I love reading books about politics, self help as well as watching documentaries.❤✌
-
+On my pinned reositories, I have chosen few repositories that I am actively working on and the forked repositories from either vueMastery free weekends or those that I am interested in.
+**I am willing to be part of any project***,  should you think/believe that I am a good fit please do reach out on my social media platforms or [myEmail](tmmmmadi@gmail.com)
+I am also working on perfecting my frontend skills especially Vuejs.  **Please reach out should you need me to be part of your github organisation**
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
@@ -23,7 +25,7 @@ Hi,I'm Tshepo Mamabolo Mahudu🙌, a Java developer, Vuejs developer as well as 
 
 - 🔭 I’m currently a junior Java developer and Vuejs at [AfriGIS](www.afrigis.co.za).
 - 🌱 I’m currently learning Qgis, springboot, and vuejs (trying to build something by the end of the year).
-- 👯 .
+- 👯 
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
 - ⚡ 
