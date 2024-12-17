@@ -13,9 +13,9 @@
 
 <br />
 
-Hi,I'm Tshepo Mamabolo Mahudu🙌, a Java developer (springboot), Vuejs developer as well as an aspiring GIS analyst and spatial developer. Apart from that I love reading books about politics, self help as well as watching documentaries.❤✌
-I am self starter who believes much in self development,  identifying my skill gaps and searching tutorials that will help me.  I am currently working on Java and springboot basics from coursera and udemy.
-courses completed can be seen from my linkedIn under [licenses & certification](https://www.linkedin.com/in/tshepo-mamabolo-mahudu-7ab12333/details/certifications/)
+Hi,I'm Tshepo Mamabolo Mahudu🙌, a Java developer (springboot), Vuejs developer as well as an aspiring GIS analyst and spatial developer. Apart from that I love reading books about politics, self-help as well as watching documentaries.❤✌
+I am self starter who believes much in self-development,  identifying my skill gaps and searching tutorials that will help me.  I am currently working on Java and springboot basics from Coursera and Udemy.
+courses completed can be seen on my LinkedIn under [licenses & certification](https://www.linkedin.com/in/tshepo-mamabolo-mahudu-7ab12333/details/certifications/).
 On my pinned repositories, I have chosen few repositories that I am actively working on and the forked repositories from either vueMastery free weekends or those that I am interested in.
 **I am willing to be part of any project***,  should you think/believe that I am a good fit please do reach out on my social media platforms or [myEmail](mailto:tmmmmadi@gmail.com)
 I am also working on perfecting my frontend skills especially Vuejs.  **Please reach out should you need me to be part of your github organisation**
@@ -28,7 +28,7 @@ I am also working on perfecting my frontend skills especially Vuejs.  **Please r
 - 🔭 I’m currently a junior Java developer and Vuejs at [AfriGIS](www.afrigis.co.za).
 - 🌱 I’m currently learning Qgis, springboot, and vuejs (trying to build something by the end of the year).
 - 👯 
-- 💬 Ask me about anything , Would love to answer them.✌
+- 💬 Ask me about anything, Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
 - ⚡ 
 - 📝[Portfolio](https://github.com/MamaboloGtub/MamaboloGtub)
