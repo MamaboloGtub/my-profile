@@ -54,3 +54,9 @@ I am also working on perfecting my frontend skills especially Vuejs.  **Please r
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-plain.svg" alt="Vitest" width="50" height="50"/>
 </div>
+
+## Daily dev card
+
+<div align="center">
+    <a href="https://app.daily.dev/tshepomamabolo"><img src="https://api.daily.dev/devcards/v2/fRhwc2ioUJt3D2W76LGUZ.png?r=2lx" width="356" alt="Tshepo Mamabolo's Dev Card"/></a>
+</div>
