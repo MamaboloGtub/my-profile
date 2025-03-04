@@ -3,8 +3,8 @@
 <br/>
 
 
-<a href="https://twitter.com/modifemamabolo" target="_blank">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://bsky.app/profile/devgtub.bsky.social" target="_blank">
+<img align="left" alt="Saket Prag | Buesky" width="22px" src="https://github.com/OzzyCzech/bluesky-logo/blob/main/src/bluesky-icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/tshepo-mamabolo-mahudu-7ab12333" target="_blank">
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -54,8 +54,8 @@ I am also working on perfecting my frontend skills especially Vuejs.  **Please r
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="50" height="50"/>
     <img src="https://static.cdnlogo.com/logos/j/20/jwt.svg" alt="JWT" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jenkins.svg" alt="Jenkins" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-plain.svg" alt="Vitest" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/aws-origi" alt="Vitest" width="50" height="50"/>
 </div>
 
 ## Daily dev card
