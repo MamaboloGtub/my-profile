@@ -63,5 +63,5 @@ I am also working on perfecting my frontend skills especially Vuejs.  **Please r
 ## Daily dev card
 
 <div align="center">
-    <a href="https://app.daily.dev/tshepomamabolo"><img src="https://api.daily.dev/devcards/v2/fRhwc2ioUJt3D2W76LGUZ.png?r=2lx" width="356" alt="Tshepo Mamabolo's Dev Card"/></a>
+    <a href="https://app.daily.dev/tshepomamabolo"><img src="https://api.daily.dev/devcards/v2/fRhwc2ioUJt3D2W76LGUZ.png?type=default&r=jd0" width="356" alt="Tshepo Mamabolo's Dev Card"/></a>
 </div>
