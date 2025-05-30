@@ -17,6 +17,7 @@ Hi,I'm Tshepo Mamabolo Mahudu🙌, a Java developer (springboot), Vuejs develope
 I am self starter who believes much in self-development,  identifying my skill gaps and searching tutorials that will help me.  I am currently working on Java and springboot basics from Coursera and Udemy.
 courses completed can be seen on my LinkedIn under [licenses & certification](https://www.linkedin.com/in/tshepo-mamabolo-mahudu-7ab12333/details/certifications/).
 On my pinned repositories, I have chosen few repositories that I am actively working on and the forked repositories from either vueMastery free weekends or those that I am interested in.
+I am currently hands-on on many projects which are under [Java & Springboo](https://github.com/MamaboloGtub/java-and-spring-tut) Which I aim to learn thymeleaf (for legacy projects and Spring MVC), Java, Intellij, Docker, Docker-compose and other Devops related tutotrials. 
 **I am willing to be part of any project***,  should you think/believe that I am a good fit please do reach out on my social media platforms or [myEmail](mailto:tmmmmadi@gmail.com)
 I am also working on perfecting my frontend skills especially Vuejs.  **Please reach out should you need me to be part of your github organisation**
 
@@ -56,6 +57,7 @@ I am also working on perfecting my frontend skills especially Vuejs.  **Please r
     <img src="https://static.cdnlogo.com/logos/j/20/jwt.svg" alt="JWT" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jenkins.svg" alt="Jenkins" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-plain.svg" alt="Vitest" width="50" height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="50" height="50"/>
 </div>
 
 ## Daily dev card
