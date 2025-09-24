@@ -58,6 +58,7 @@ I am also working on perfecting my frontend skills especially Vuejs.  **Please r
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jenkins.svg" alt="Jenkins" title="Jenkins width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-plain.svg" alt="Vitest" title="Vitest" width="50" height="50"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="50" height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js Logo" style="height: 50px;" />
 </div>
 
 ## Daily dev card
