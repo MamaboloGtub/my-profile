@@ -26,8 +26,8 @@ I am also working on perfecting my frontend skills especially Vuejs.  **Please r
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently an intermediate fullstack (Java, springboot, PostgreSQL, NUXTjs, Vuejs) developer at [AfriGIS](www.afrigis.co.za).
-- 🌱 I’m currently learning Qgis, springboot, and vuejs (trying to build something by the end of the year).
+- 🔭 I’m currently an intermediate fullstack (Java, springboot, PostgreSQL, Nuxtjs, Vuejs) developer at [AfriGIS](www.afrigis.co.za).
+- 🌱 I’m currently learning Qgis (Fun and love for location intelligence), php, kubernetes.
 - 👯 
 - 💬 Ask me about anything, Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
