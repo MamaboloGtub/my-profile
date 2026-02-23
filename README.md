@@ -13,13 +13,13 @@
 
 <br />
 
-Hi,I'm Tshepo Mamabolo Mahudu🙌, a Java developer (springboot), Vuejs developer as well as an aspiring GIS analyst and spatial developer. Apart from that I love reading books about politics, self-help as well as watching documentaries.❤✌
-I am self starter who believes much in self-development,  identifying my skill gaps and searching tutorials that will help me.  I am currently working on Java and springboot basics from Coursera and Udemy.
-courses completed can be seen on my LinkedIn under [licenses & certification](https://www.linkedin.com/in/tshepo-mamabolo-mahudu-7ab12333/details/certifications/).
-On my pinned repositories, I have chosen few repositories that I am actively working on and the forked repositories from either vueMastery free weekends or those that I am interested in.
-I am currently hands-on on many projects which are under [Java & Springboot](https://github.com/MamaboloGtub/java-and-spring-tut) Which I aim to learn thymeleaf (for legacy projects and Spring MVC), Java, nuxtjs, jenkins, CI/CD (github actions), Intellij, Docker, Docker-compose and other Devops related tutotrials. 
-**I am willing to be part of any project***,  should you think/believe that I am a good fit please do reach out on my social media platforms or [myEmail](mailto:tmmmmadi@gmail.com)
-I am also working on perfecting my frontend skills especially Vuejs.  **Please reach out should you need me to be part of your github organisation**
+Hi, I'm Tshepo Mamabolo Mahudu🙌, a Java developer (springboot), VueJS developer, as well as an aspiring GIS analyst and spatial developer. Apart from that, I love reading books about politics and self-help, as well as watching documentaries.❤✌
+I am self starter who believes much in self-development,  identifying my skill gaps, and searching for tutorials that will help me.  I am currently working on Java and springboot basics from Coursera and Udemy.
+Courses completed can be seen on my LinkedIn under [licenses & certification](https://www.linkedin.com/in/tshepo-mamabolo-mahudu-7ab12333/details/certifications/).
+On my pinned repositories, I have chosen a few repositories that I am actively working on, and the forked repositories from either vueMastery free weekends or those that I am interested in.
+I am currently hands-on on many projects which are under [Java & Springboot](https://github.com/MamaboloGtub/java-and-spring-tut). I aim to learn Thymeleaf (for legacy projects and Spring MVC), Java, NuxtJS, Jenkins, CI/CD (GitHub Actions), IntelliJ, Docker, Docker-compose, and other Devops related tutotrials. 
+**I am willing to be part of any project***,  should you think/believe that I am a good fit, please do reach out on my social media platforms or [myEmail](mailto:tmmmmadi@gmail.com)
+I am also working on perfecting my frontend skills, especially VueJS.  **Please reach out should you need me to be part of your GitHub organisation**
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
@@ -27,10 +27,10 @@ I am also working on perfecting my frontend skills especially Vuejs.  **Please r
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently an intermediate fullstack (Java, springboot, PostgreSQL, Nuxtjs, Vuejs) developer at [AfriGIS](www.afrigis.co.za).
-- 🌱 I’m currently learning Qgis (Fun and love for location intelligence), php, kubernetes.
+- 🌱 I’m currently learning QGIS (Fun and love for location intelligence), Python, and scripting ( for LLms and automation).
 - 👯 
 - 💬 Ask me about anything, Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform 
+- 📫 How to reach me: Any of the social media platforms 
 - ⚡ 
 - 📝[Portfolio](https://github.com/MamaboloGtub/MamaboloGtub)
 - ✨[achievement](https://github.com/MamaboloGtub?tab=achievements)
